@@ -4,5 +4,6 @@ public class Hello{
 
 		System.out.println("Hello "+args[0]);
 		System.out.println("Anca" +args[0]);
+		System.out.println("m am intors" + args[0]);
 	}
 }
